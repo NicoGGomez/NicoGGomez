@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on my [Portfolio](https://github.com/NicoGGomez/Portafolio)
 - 🌱 I’m learning **clean architecture, Laravel & React Native**
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/NicoGGomez)
-- 📫 How to reach me: **nicogomezdev@gmail.com**
+- 📫 How to reach me: **anelecarg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,7 +65,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
