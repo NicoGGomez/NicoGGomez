@@ -23,22 +23,12 @@ I enjoy working on both frontend and backend, from designing interfaces to devel
 
 ### 🛠️ Tech Stack
 
-**Frontend**
+### 📊 GitHub Statistics
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,vite](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,vite)" /> \</p>
-
-**Backend**
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=java,spring,nodejs,express,php,laravel,python](https://skillicons.dev/icons?i=java,spring,nodejs,express,php,laravel,python)" /> \</p>
-
-**Databases**
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=postgres,mysql,supabase](https://skillicons.dev/icons?i=postgres,mysql,supabase)" /> \</p>
-
-**Tools & Other Technologies**
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,docker,postman,figma,arduino](https://skillicons.dev/icons?i=git,github,docker,postman,figma,arduino)" /> \</p>
-
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NicoGGomez&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoGGomez&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ### 💼 Featured Projects
